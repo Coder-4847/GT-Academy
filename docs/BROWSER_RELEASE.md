@@ -43,3 +43,7 @@ Open `http://localhost:8766/`. Opening the HTML directly as a file will not work
 Pushes to `main` trigger `.github/workflows/pages.yml`, which checks the browser modules and deploys only `web/` to GitHub Pages. Repository source and exported desktop bundles are separate from the Pages artifact. Training files, personal saves, virtual environments and development artifacts are excluded from Git.
 
 Runtime references: [Pyodide 0.27.7](https://pyodide.org/en/0.27.7/usage/quickstart.html) and [GitHub Pages Actions deployment](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+## Loading recovery update
+
+Start driving remains available during background downloads (Career locks still apply). Clicking it shows the current download stage and received megabytes, with a Back to menu option. The pinned runtime is cached in browser Cache Storage. Network requests have a 45-second timeout; startup has a 90-second limit and a Retry loading action. A failed load no longer leaves a permanently disabled button. Slow-load, cancellation, blocked-request recovery and cache reuse are covered by `tools/verify_loading.cjs`. No checkpoint, physics or training-file changes were made.

@@ -1,5 +1,26 @@
 import {loadPyodide} from './vendor/pyodide/pyodide.mjs';
 let py,bridge;
+// Cache the pinned runtime locally. A slow/blocked request must not hang forever.
+const networkFetch=self.fetch.bind(self);
+let downloaded=0,lastProgress=0;
+self.fetch=async(input,init={})=>{
+  const url=new URL(typeof input==='string'||input instanceof URL?String(input):input.url,import.meta.url);
+  const runtime=url.pathname.includes('/vendor/pyodide/');
+  let cache;
+  if(runtime){try{cache=await caches.open('gt-academy-pyodide-0.27.7');const saved=await cache.match(url.href);if(saved)return saved;}catch{}}
+  const response=await networkFetch(input,{...init,signal:init.signal||AbortSignal.timeout(45000)});
+  if(!response.ok||!runtime||!response.body)return response;
+  const reader=response.body.getReader();
+  const stream=new ReadableStream({async pull(controller){
+    try{const {done,value}=await reader.read();if(done){controller.close();return;}downloaded+=value.byteLength;
+      if(performance.now()-lastProgress>200){lastProgress=performance.now();self.postMessage({status:`Downloading game files - ${(downloaded/1048576).toFixed(1)} MB received`});}
+      controller.enqueue(value);
+    }catch(error){controller.error(error);}
+  },cancel(){reader.cancel();}});
+  const result=new Response(stream,{status:response.status,headers:response.headers});
+  if(cache)cache.put(url.href,result.clone()).catch(()=>{});
+  return result;
+};
 const hash=async bytes=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),b=>b.toString(16).padStart(2,'0')).join('');
 async function checked(url,expected){
   const response=await fetch(url); if(!response.ok)throw Error(`Could not load ${url} (${response.status}). Reload and try again.`);
@@ -7,9 +28,10 @@ async function checked(url,expected){
   return bytes;
 }
 const ready=(async()=>{
-  self.postMessage({status:'Loading driving engine…'});
+  self.postMessage({status:'Loading game files...'});
   py=await loadPyodide({indexURL:new URL('./vendor/pyodide/',import.meta.url).href});
   await py.loadPackage('numpy');
+  self.postMessage({status:'Opening circuits and cars...'});
   const catalog=await (await fetch('./catalog.json')).json();
   const bytes=await checked('./simulation.zip',catalog.simulation_sha256);
   py.unpackArchive(bytes,'zip');
