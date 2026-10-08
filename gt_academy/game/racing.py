@@ -53,10 +53,8 @@ class OpponentLibrary:
 
 
 def unlocked(medals,track,tier):
-    if track>0 and f'{track-1}:Champion' not in medals: return False
-    if tier=='Legend': return all(f'{t}:Champion' in medals for t in range(5))
-    index=TIERS.index(tier)
-    return index==0 or f'{track}:{TIERS[index-1]}' in medals
+    """Every valid challenge is available; medals record wins, never gate access."""
+    return track in range(len(TRACKS)) and tier in TIERS
 
 
 class Opponent:

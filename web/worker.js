@@ -32,10 +32,10 @@ const ready=(async()=>{
   py=await loadPyodide({indexURL:new URL('./vendor/pyodide/',import.meta.url).href});
   await py.loadPackage('numpy');
   self.postMessage({status:'Opening circuits and cars...'});
-  const catalog=await (await fetch('./catalog.json')).json();
-  const bytes=await checked('./simulation.zip',catalog.simulation_sha256);
+  const catalog=await (await fetch('./catalog.json?v=3')).json();
+  const bytes=await checked('./simulation.zip?v=3',catalog.simulation_sha256);
   py.unpackArchive(bytes,'zip');
-  py.FS.writeFile('bridge.py',new Uint8Array(await checked('./bridge.py')));
+  py.FS.writeFile('bridge.py',new Uint8Array(await checked('./bridge.py?v=3')));
   py.runPython('import bridge'); bridge=py.globals.get('bridge').game;
   const version=py.runPython('bridge.SIM_VERSION');
   if(version!==catalog.sim_version)throw Error('Simulation version mismatch. Refusing to run incompatible game files.');

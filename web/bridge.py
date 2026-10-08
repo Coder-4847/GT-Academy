@@ -8,7 +8,7 @@ from gt_academy.config import PHYSICS,VIEWER
 from gt_academy.sim.physics import approach,clamp
 from gt_academy.game.save import PlayerSave
 from gt_academy.game.session import Session
-from gt_academy.game.racing import RaceSession,AIGhostSession,unlocked
+from gt_academy.game.racing import RaceSession,AIGhostSession
 
 
 class NumpyDriver:
@@ -39,7 +39,6 @@ class BrowserGame:
         self.profile_path.write_text(profile_json,encoding='utf-8')
         self.save=PlayerSave(self.profile_path)
         car,track,mode=o['car'],o['track'],o['mode']
-        if mode in ('Race vs AI','Career') and not unlocked(self.save.medals,track,o['tier']): raise ValueError('Win the preceding Career challenge to unlock this race.')
         if self.session and hasattr(self.session,'close'): self.session.close()
         if mode in ('Race vs AI','Career') or (mode=='Time Trial' and o.get('aiGhost')):
             driver=NumpyDriver('/opponent.npz',o['rival'],track)

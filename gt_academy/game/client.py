@@ -91,16 +91,12 @@ class Game:
         self.audio.play('click')
 
     def choose_mode(self,mode):
-        if mode in ('Race vs AI','Career') and not unlocked(self.save.medals,self.track_id,'Rookie'): self.track_id=0
         self.mode=mode; self.go('cars')
 
     def start(self):
         self.message=''
         racing=self.mode in ('Race vs AI','Career')
         tier=self.settings['rival_tier']
-        if racing and not unlocked(self.save.medals,self.track_id,tier):
-            self.message='This challenge is locked. Win the preceding Career challenge first.'
-            return
         driver=None
         if racing or (self.mode=='Time Trial' and self.settings['ai_ghost']):
             self.text('Preparing rival...',(48,785),18,C.accent)
@@ -331,7 +327,7 @@ class Game:
         self.button('Choose circuit  >',(1120,736,272,48),lambda:self.go('tracks'))
 
     def draw_tracks(self):
-        self.heading(self.mode,'Choose your circuit',f'{CARS[self.car_id].name} / '+('Win each Champion in Career to open the next circuit.' if self.mode in ('Race vs AI','Career') else 'All circuits open for practice and time trials.'))
+        self.heading(self.mode,'Choose your circuit',f'{CARS[self.car_id].name} / '+('Every circuit and difficulty is available.' if self.mode in ('Race vs AI','Career') else 'All circuits open for practice and time trials.'))
         for i,track in enumerate(TRACKS):
             x=48+i*270
             rect=pygame.Rect(x,192,254,455)
@@ -380,8 +376,8 @@ class Game:
             self.text('AI ghosts reset on your start-line crossing. They never collide.',(48,635),22,C.muted)
         elif career:
             self.text('Career: three laps, no handicap or added AI mistakes.',(48,553),28)
-            self.text('Rookie > Pro > Champion > next circuit. All five Champions unlock Legend.',(48,610),22,C.muted)
-            self.text('Choose any rival car. A win here saves a medal and unlocks your next challenge.',(48,648),18,C.accent)
+            self.text('Choose any circuit and tier, including Legend. Every challenge is open.',(48,610),22,C.muted)
+            self.text('Choose any rival car. Career wins save medals and personal records.',(48,648),18,C.accent)
         else:
             self.button(f'Laps: {self.settings["race_laps"]}',(48,548,260,56),lambda:self.settings.update(race_laps=self.settings['race_laps']%5+1))
             self.button(f'AI penalty: +{self.settings["ai_penalty"]:g}s',(330,548,360,56),lambda:self.settings.update(ai_penalty=(self.settings['ai_penalty']+5)%65))
@@ -500,7 +496,7 @@ class Game:
             self.text('Total: '+(time_label(other+session.penalty) if other is not None else 'DNF / incomplete'),(720,529),28)
             if session.penalty: self.text(f'Includes +{session.penalty:g}s handicap',(720,577),18,C.muted)
             if session.mode=='Career' and session.result=='Victory':
-                self.text('Medal saved. Your next Career challenge is unlocked.',(60,619),22,C.accent)
+                self.text('Medal saved. Choose any challenge for your next race.',(60,619),22,C.accent)
             elif session.opponent.dnf: self.text('Rival retired: '+session.opponent.dnf,(60,619),22,C.muted)
             self.button('Watch replay',(1060,617,332,52),self.start_replay)
             self.button('Race again',(48,701,360,65),self.start)

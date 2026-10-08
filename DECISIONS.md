@@ -1,5 +1,9 @@
 # Design decisions
 
+## Always-open challenges — 8 October 2026
+
+The user requested that every car, track and difficulty be available at all times. Both browser and desktop now remove progression requirements, including Career and Legend. Medals remain a record of wins, and no prior medals are required to enter or earn another challenge. This supersedes historical unlock rules below; simulation, trained models and training files are unchanged.
+
 ## Phase 5 update - 7 October 2026
 
 - The final twelve seconds are recorded at 30 Hz in a bounded in-memory ring of copied player/rival poses. Playback interpolates these snapshots with a follow camera; it never steps simulation, recomputes outcomes or writes medals. Playback is silent and omits transient particles from the end of the race; existing session skid marks remain cosmetic scenery.

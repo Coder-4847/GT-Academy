@@ -14,7 +14,7 @@ Settings and progress live in browser local storage. They are separate from desk
 
 - The original Python simulation, cars, tracks, observations and rewards are archived byte-for-byte in `web/simulation.zip`. The browser verifies the archive checksum and the original simulation hash before allowing play.
 - Pyodide 0.27.7 runs Python 3.12 and NumPy in a dedicated Web Worker. Rendering and menu animation use browser canvas/DOM on the main thread. The runtime is vendored under `web/vendor/pyodide/`; no runtime CDN is needed.
-- Original session logic implements lap validation, races, ghosts, career unlocks and results. Inputs retain the existing keyboard ramp and actuator behavior.
+- Original session logic implements lap validation, races, ghosts, career medals and results. Inputs retain the existing keyboard ramp and actuator behavior.
 - Trained actor weights and frozen observation normalization are exported into safe numeric NPZ files. No PyTorch, training or pickle loading is needed by the browser. Model checksums, car/track identities and simulation versions are checked before use.
 - Export comparison covered 2,400 observations across 100 source actors; maximum action difference was below 0.000001. Small arithmetic differences can still change a long driving trajectory, so browser lap testing is separate from desktop testing.
 
@@ -46,4 +46,8 @@ Runtime references: [Pyodide 0.27.7](https://pyodide.org/en/0.27.7/usage/quickst
 
 ## Loading recovery update
 
-Start driving remains available during background downloads (Career locks still apply). Clicking it shows the current download stage and received megabytes, with a Back to menu option. The pinned runtime is cached in browser Cache Storage. Network requests have a 45-second timeout; startup has a 90-second limit and a Retry loading action. A failed load no longer leaves a permanently disabled button. Slow-load, cancellation, blocked-request recovery and cache reuse are covered by `tools/verify_loading.cjs`. No checkpoint, physics or training-file changes were made.
+Start driving remains available during background downloads in every mode. Clicking it shows the current download stage and received megabytes, with a Back to menu option. The pinned runtime is cached in browser Cache Storage. Network requests have a 45-second timeout; startup has a 90-second limit and a Retry loading action. A failed load no longer leaves a permanently disabled button. Slow-load, cancellation, blocked-request recovery and cache reuse are covered by `tools/verify_loading.cjs`. No checkpoint, physics or training-file changes were made.
+
+## Open challenges
+
+Every car, track and tier is available immediately in both browser and desktop editions, including Career and Legend. Career wins still save medals; no earlier wins are required, and choosing another circuit preserves your selected tier. This supersedes the original progression restrictions.

@@ -17,8 +17,8 @@ Or double-click `launch.cmd`. The main menu opens in a 1920x1080 resizable windo
 
 - **Time Trial:** a three-second countdown, then three valid laps. Beat your personal best to save its ghost. The blue outline replays it; a negative delta means you are ahead. Invalid laps do not count. Cross the start line for a fresh attempt or press R to restart.
 - **Free Practice:** explore without a deadline. R places the car on the centerline at rest and invalidates the current lap. Pause -> Finish session ends practice. Personal-best ghosts are earned in Time Trial.
-- **Race vs AI:** choose your rival car independently, an unlocked tier and 1–5 laps. Optional AI mistakes and a time penalty make custom races easier; they do not earn career medals. Cars pass through each other.
-- **Career:** win Rookie, Pro and Champion on each circuit to unlock the next circuit. Beat all five Champions to unlock Legend. Career uses three laps without custom handicaps.
+- **Race vs AI:** choose your rival car independently, any tier and 1–5 laps. Optional AI mistakes and a time penalty make custom races easier; they do not earn career medals. Cars pass through each other.
+- **Career:** every car, circuit and difficulty (including Legend) is always available. Wins record medals without requiring earlier wins. Career uses three laps without custom handicaps.
 - **AI ghost:** in Time Trial, choose a tier to race its live policy ghost instead of your personal ghost. All tiers are available for this practice mode.
 - **Replay:** completed AI races automatically replay the final 12 seconds with a smooth follow camera. Space pauses; Esc skips to results. Use Watch replay on the results screen to play it again. Replays last only for the current session.
 - **Photos:** F12 saves a clean 1440×810 PNG under `player_data/screenshots/` during driving, pause, results or replay.

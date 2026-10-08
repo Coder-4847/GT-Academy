@@ -37,11 +37,12 @@ def test_tier_order_reliability_and_warnings():
     with pytest.raises(ValueError): choose_tiers([row(90,.67)])
 
 
-def test_career_sequence_save_and_legend(folder):
+def test_all_challenges_open_and_medals_save_without_prerequisites(folder):
     save=PlayerSave(folder/'profile.json')
     assert unlocked(save.medals,0,'Rookie')
-    assert not unlocked(save.medals,1,'Rookie')
-    assert not save.award(0,'Champion',30)
+    assert all(unlocked({},track,tier) for track in range(5) for tier in ('Rookie','Pro','Champion','Legend'))
+    assert save.award(4,'Legend',30)
+    assert save.award(0,'Champion',30)
     for track in range(5):
         for tier in ('Rookie','Pro','Champion'):
             assert save.award(track,tier,50)
