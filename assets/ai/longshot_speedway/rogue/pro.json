@@ -1,0 +1,29 @@
+{
+  "best_lap": 46.686160086259854,
+  "mean_lap": 47.77903173437668,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\rogue\\checkpoints\\step_000001250000_c3aef368",
+  "car_id": 4,
+  "track_id": 3,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      46.686160086259854,
+      43.828784335397124,
+      44.9747682032042,
+      45.470468071057915,
+      46.26477528945337
+    ],
+    "finish_time": 227.2249559854519,
+    "dnf": ""
+  },
+  "tier": "Pro",
+  "source_checkpoint": "step_000001250000_c3aef368",
+  "steps": 1250000
+}

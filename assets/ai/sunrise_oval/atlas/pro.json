@@ -1,0 +1,29 @@
+{
+  "best_lap": 29.675293860499742,
+  "mean_lap": 31.046734791759633,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\atlas\\checkpoints\\step_000013750000_9ef86f05",
+  "car_id": 0,
+  "track_id": 0,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      32.998243848112935,
+      26.71336140735386,
+      28.029826994372566,
+      26.750113653391953,
+      27.400052139753765
+    ],
+    "finish_time": 141.8915980429918,
+    "dnf": ""
+  },
+  "tier": "Pro",
+  "source_checkpoint": "step_000013750000_9ef86f05",
+  "steps": 13750000
+}

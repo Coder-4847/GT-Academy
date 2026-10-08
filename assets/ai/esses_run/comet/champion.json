@@ -1,0 +1,29 @@
+{
+  "best_lap": 41.03705685874434,
+  "mean_lap": 42.51482691125773,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\comet\\checkpoints\\step_000013500000_cdd5fcbc",
+  "car_id": 3,
+  "track_id": 2,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      43.50314034848769,
+      41.52828707651559,
+      42.18699893727523,
+      41.498510582644386,
+      41.74894760963024
+    ],
+    "finish_time": 210.4658845546183,
+    "dnf": ""
+  },
+  "tier": "Champion",
+  "source_checkpoint": "step_000013500000_cdd5fcbc",
+  "steps": 13500000
+}

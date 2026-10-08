@@ -1,0 +1,29 @@
+{
+  "best_lap": 40.253970577193265,
+  "mean_lap": 40.63029859978034,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\bolt\\checkpoints\\step_000029750000_b887860f",
+  "car_id": 1,
+  "track_id": 1,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      40.787682101092265,
+      37.41404574793963,
+      36.81152065644833,
+      40.64093736703715,
+      38.28872243391714
+    ],
+    "finish_time": 193.9429083064856,
+    "dnf": ""
+  },
+  "tier": "Champion",
+  "source_checkpoint": "step_000029750000_b887860f",
+  "steps": 29750000
+}

@@ -1,0 +1,3193 @@
+{
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "pairs": {
+    "0:0": {
+      "Rookie": {
+        "best_lap": 30.912557971950513,
+        "mean_lap": 31.120468505550573,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\atlas\\checkpoints\\step_000000500000_2111e6b4",
+        "car_id": 0,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            31.294827867789376,
+            28.528726658568743,
+            28.605270116526995,
+            28.2725587578156,
+            28.346191649699684
+          ],
+          "finish_time": 145.0475750504098,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000500000_2111e6b4",
+        "steps": 500000,
+        "bundle": "sunrise_oval/atlas/rookie.zip",
+        "sha256": "6f3ef5ec279ce98fcecdd4d48812d79b79611fb36208211a84a6bfbcf59f0ed8"
+      },
+      "Pro": {
+        "best_lap": 29.675293860499742,
+        "mean_lap": 31.046734791759633,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\atlas\\checkpoints\\step_000013750000_9ef86f05",
+        "car_id": 0,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            32.998243848112935,
+            26.71336140735386,
+            28.029826994372566,
+            26.750113653391953,
+            27.400052139753765
+          ],
+          "finish_time": 141.8915980429918,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000013750000_9ef86f05",
+        "steps": 13750000,
+        "bundle": "sunrise_oval/atlas/pro.zip",
+        "sha256": "821e3ea2518b9fca8d2d034c76256bf8b15ac6d9b0cf79c0d89ed6b09a55bb85"
+      },
+      "Champion": {
+        "best_lap": 28.29415297796266,
+        "mean_lap": 28.384476421368394,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\atlas\\checkpoints\\step_000003750000_c5611b6b",
+        "car_id": 0,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            28.459276286142856,
+            25.050476878467368,
+            25.101819205472356,
+            25.10359522529967,
+            25.177056966207825
+          ],
+          "finish_time": 128.8922245615857,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000003750000_c5611b6b",
+        "steps": 3750000,
+        "bundle": "sunrise_oval/atlas/champion.zip",
+        "sha256": "ed4277b132fa431e27149ce48265142a99616630c8c4839146b7e1b371af846c"
+      },
+      "Legend": {
+        "best_lap": 25.654642804752065,
+        "mean_lap": 27.5140216237911,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\atlas\\checkpoints\\step_000019250000_84aecf84",
+        "car_id": 0,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            28.509855955691556,
+            25.736459244511984,
+            25.747299279876923,
+            25.64179603552925,
+            25.972771485566295
+          ],
+          "finish_time": 264.0344658871169,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000019250000_84aecf84",
+        "steps": 19250000,
+        "bundle": "sunrise_oval/atlas/legend.zip",
+        "sha256": "6df4c251cb73df01478795dd1f6f6e26832356102f646c4d405debd508b79313"
+      }
+    },
+    "0:1": {
+      "Rookie": {
+        "best_lap": 32.54153813685526,
+        "mean_lap": 32.71632523366102,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\bolt\\checkpoints\\step_000000500000_66845f5d",
+        "car_id": 1,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            32.91503954693652,
+            30.932050079638234,
+            31.007780199567964,
+            30.66721684197302,
+            30.89401209418572
+          ],
+          "finish_time": 156.41609876232056,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000500000_66845f5d",
+        "steps": 500000,
+        "bundle": "sunrise_oval/bolt/rookie.zip",
+        "sha256": "101485121db43c79f6a07b64005919763cd179b15725a67b22cd9b463fcae2ed"
+      },
+      "Pro": {
+        "best_lap": 29.521869414522616,
+        "mean_lap": 29.599000235630115,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 1000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\bolt\\checkpoints\\step_000001000000_80823f2e",
+        "car_id": 1,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            29.74399931151596,
+            27.480750983115218,
+            27.310669621225617,
+            27.403010283225438,
+            27.501974377315697
+          ],
+          "finish_time": 139.44040457640256,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000001000000_80823f2e",
+        "bundle": "sunrise_oval/bolt/pro.zip",
+        "sha256": "60da6ad3dc77790221c15ddccbdab3193905a155f403718a9f112857212d9b4a"
+      },
+      "Champion": {
+        "best_lap": 27.32497161768216,
+        "mean_lap": 27.644226721878976,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 9000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\bolt\\checkpoints\\step_000009000000_891e7aa1",
+        "car_id": 1,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            27.753952864134842,
+            24.41065428192478,
+            25.57769153294885,
+            24.222273451518376,
+            24.178889335658724
+          ],
+          "finish_time": 126.14346146618044,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000009000000_891e7aa1",
+        "bundle": "sunrise_oval/bolt/champion.zip",
+        "sha256": "c9ce47e6833924c6a2f976af46cc4dc4ca22520c2931098a4e6dec51da42f51f"
+      },
+      "Legend": {
+        "best_lap": 26.649999999999768,
+        "mean_lap": 26.839394025377214,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\bolt\\checkpoints\\step_000001750000_8eac22f6",
+        "car_id": 1,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            26.666274273551213,
+            24.483725726448444,
+            23.79999999999993,
+            23.674004332662754,
+            23.822120193295774
+          ],
+          "finish_time": 122.446124525953,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000001750000_8eac22f6",
+        "steps": 1750000,
+        "bundle": "sunrise_oval/bolt/legend.zip",
+        "sha256": "061863e325c2667bbef26f28893470200f0b16eeff336b679c5384566228ce5d"
+      }
+    },
+    "0:2": {
+      "Rookie": {
+        "best_lap": 34.825558770175455,
+        "mean_lap": 34.863767054632035,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\vector\\checkpoints\\step_000000250000_70860b09",
+        "car_id": 2,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            34.825558770175455,
+            32.09214375690055,
+            31.95294199191205,
+            31.932926349905703,
+            31.897454150905997
+          ],
+          "finish_time": 162.70102501982421,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000250000_70860b09",
+        "steps": 250000,
+        "bundle": "sunrise_oval/vector/rookie.zip",
+        "sha256": "24bbde52078b95fbb0bb7e8e7d66b7841092e69b8d6ff407bfa80894d2d72804"
+      },
+      "Pro": {
+        "best_lap": 29.443836118473673,
+        "mean_lap": 29.718070774633706,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\vector\\checkpoints\\step_000014250000_db416767",
+        "car_id": 2,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            30.093506063481765,
+            25.916597613400597,
+            25.753706451857248,
+            26.313186709186045,
+            25.008564668376266
+          ],
+          "finish_time": 133.08556150630113,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000014250000_db416767",
+        "steps": 14250000,
+        "bundle": "sunrise_oval/vector/pro.zip",
+        "sha256": "ad41a2f923434f0521bed0d9363a368aaf2dd575d61637c545abc3e24985020a"
+      },
+      "Champion": {
+        "best_lap": 26.497565754541696,
+        "mean_lap": 27.123896485012256,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 3000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\vector\\checkpoints\\step_000003000000_880f7f91",
+        "car_id": 2,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            26.80654524305394,
+            23.516411982991567,
+            22.998301383812457,
+            23.73685535742649,
+            22.829145923192872
+          ],
+          "finish_time": 119.8872598904722,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000003000000_880f7f91",
+        "bundle": "sunrise_oval/vector/champion.zip",
+        "sha256": "c785f0a8814c1f8a4ff5150385f71fa972cfa9a22d51ca75e6a77ee7c2fce799"
+      },
+      "Legend": {
+        "best_lap": 26.189912623969,
+        "mean_lap": 26.54917951147489,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 5000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\vector\\checkpoints\\step_000005000000_8daf10c3",
+        "car_id": 2,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            26.189912623969,
+            24.251040039618765,
+            25.11307336786028,
+            24.535728136386762,
+            26.370904482157204
+          ],
+          "finish_time": 154.46145202120601,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000005000000_8daf10c3",
+        "bundle": "sunrise_oval/vector/legend.zip",
+        "sha256": "f3ec072f9e6999aabfbb2923e1fa309955aa2bc34c126cc0bb9197c1e642eddc"
+      }
+    },
+    "0:3": {
+      "Rookie": {
+        "best_lap": 33.25194025155414,
+        "mean_lap": 33.34055687587524,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\comet\\checkpoints\\step_000002500000_25e5a209",
+        "car_id": 3,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            33.39565873770854,
+            31.41327231986404,
+            31.275590505808538,
+            30.55194237397456,
+            30.96806641551147
+          ],
+          "finish_time": 157.60453035288725,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000002500000_25e5a209",
+        "steps": 2500000,
+        "bundle": "sunrise_oval/comet/rookie.zip",
+        "sha256": "f249c32b5ba3bb7ce125d3b588d7fa15fbb98a00087731de1bb62db78d2387ef"
+      },
+      "Pro": {
+        "best_lap": 29.15854504360894,
+        "mean_lap": 29.633508153364176,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\comet\\checkpoints\\step_000008250000_f9802d4a",
+        "car_id": 3,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            29.906629282866156,
+            26.92939638528824,
+            26.741214676211783,
+            26.964002443148054,
+            26.924060685996633
+          ],
+          "finish_time": 137.46530347351379,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000008250000_f9802d4a",
+        "steps": 8250000,
+        "bundle": "sunrise_oval/comet/pro.zip",
+        "sha256": "b8b2fa5f5284f1fe672a012dc6cef89bfcacf357a074b11ed475881bcbbff75d"
+      },
+      "Champion": {
+        "best_lap": 24.907759025899328,
+        "mean_lap": 26.999136705261275,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 17000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\comet\\checkpoints\\step_000017000000_34e58479",
+        "car_id": 3,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            24.907759025899328,
+            24.714480895824384,
+            24.723090718272704,
+            24.66348486205489,
+            24.93910770242836
+          ],
+          "finish_time": 252.31277468004842,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000017000000_34e58479",
+        "bundle": "sunrise_oval/comet/champion.zip",
+        "sha256": "01adaa030822842b717193b2b8f87efe265db469672cbf7ae83ffd63273a945c"
+      },
+      "Legend": {
+        "best_lap": 24.299405608644886,
+        "mean_lap": 26.50411124286195,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\comet\\checkpoints\\step_000019250000_5c42f557",
+        "car_id": 3,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            24.299405608644886,
+            24.75181965976739,
+            24.577145036298408,
+            24.814983184443562,
+            24.622704112397244
+          ],
+          "finish_time": 175.60603744576258,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000019250000_5c42f557",
+        "steps": 19250000,
+        "bundle": "sunrise_oval/comet/legend.zip",
+        "sha256": "fab581776c1edee421101ac9b340a0432e914ac3b48bff0c069d17c98e1297f1"
+      }
+    },
+    "0:4": {
+      "Rookie": {
+        "best_lap": 29.75626527809125,
+        "mean_lap": 33.99977717459462,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\rogue\\checkpoints\\step_000015750000_06a03194",
+        "car_id": 4,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            36.188935233887015,
+            28.019147637257216,
+            29.798353558287157,
+            26.70539928848182,
+            25.78242158993181
+          ],
+          "finish_time": 146.49425730785566,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000015750000_06a03194",
+        "steps": 15750000,
+        "bundle": "sunrise_oval/rogue/rookie.zip",
+        "sha256": "aa5068ded72a765a1590be6223d45f3a90bc0fe643bf8f4bc6e72eb638b8e5c4"
+      },
+      "Pro": {
+        "best_lap": 29.408825377698218,
+        "mean_lap": 29.8103438817803,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 20000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\rogue\\checkpoints\\step_000020000000_8e59014b",
+        "car_id": 4,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            30.239359625340054,
+            27.437676091048967,
+            29.331021853591263,
+            28.63576463452344,
+            31.30438196502592
+          ],
+          "finish_time": 146.94820416954065,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000020000000_8e59014b",
+        "bundle": "sunrise_oval/rogue/pro.zip",
+        "sha256": "2e39f6d99f150e402dac9ece92c7d47e9782e5b2387198360c5430bd57754a4f"
+      },
+      "Champion": {
+        "best_lap": 26.77484505821349,
+        "mean_lap": 27.51376770815594,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\rogue\\checkpoints\\step_000001250000_c3b41cb4",
+        "car_id": 4,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            26.77484505821349,
+            24.484704023792112,
+            24.430167521192693,
+            25.55587098062608,
+            24.55969292597565
+          ],
+          "finish_time": 125.8052805097949,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000001250000_c3b41cb4",
+        "steps": 1250000,
+        "bundle": "sunrise_oval/rogue/champion.zip",
+        "sha256": "ef28115f397d79548386ea0187360c9a4018072f38bf9a1f02eea29c2a76e69b"
+      },
+      "Legend": {
+        "best_lap": 25.819417631598014,
+        "mean_lap": 26.641418640018216,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 2000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\rogue\\checkpoints\\step_000002000000_9e16d0c8",
+        "car_id": 4,
+        "track_id": 0,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            26.75987044355672,
+            24.47909170370746,
+            23.550863507252053,
+            24.665891367367355,
+            23.997166086036426
+          ],
+          "finish_time": 123.4528831079149,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000002000000_9e16d0c8",
+        "bundle": "sunrise_oval/rogue/legend.zip",
+        "sha256": "ab5f7400beab4049bb69edf4f24a4360f49f0d8db18f58aa72854adaf3e18128"
+      }
+    },
+    "1:0": {
+      "Rookie": {
+        "best_lap": 47.05097443047413,
+        "mean_lap": 48.25287240333335,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\atlas\\checkpoints\\step_000033750000_77072850",
+        "car_id": 0,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            47.05097443047413,
+            45.955707660958666,
+            46.24645969289091,
+            45.277489609471715,
+            45.6166700700855
+          ],
+          "finish_time": 230.14730146396286,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000033750000_77072850",
+        "steps": 33750000,
+        "bundle": "hairpin_valley/atlas/rookie.zip",
+        "sha256": "07cc7aff56b70562ca7fa178865d9c57daef9090b502eec501020213827e64b0"
+      },
+      "Pro": {
+        "best_lap": 45.880444087126484,
+        "mean_lap": 46.22992522958659,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\atlas\\checkpoints\\step_000005250000_bca9a620",
+        "car_id": 0,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            46.119822225558345,
+            41.88947943219969,
+            43.05427064241815,
+            41.104647121918774,
+            42.44224409489317
+          ],
+          "finish_time": 214.61046351705684,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000005250000_bca9a620",
+        "steps": 5250000,
+        "bundle": "hairpin_valley/atlas/pro.zip",
+        "sha256": "88f9e649b9597249b9e2e990060ca782fc29766706694eca9a63f39f96d0d26e"
+      },
+      "Champion": {
+        "best_lap": 42.21443400812224,
+        "mean_lap": 42.60887797052213,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\atlas\\checkpoints\\step_000002500000_d3e0527b",
+        "car_id": 0,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            42.21443400812224,
+            38.7554496495086,
+            38.66387126388322,
+            39.14256921334485,
+            40.08487377169862
+          ],
+          "finish_time": 198.8611979066128,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000002500000_d3e0527b",
+        "steps": 2500000,
+        "bundle": "hairpin_valley/atlas/champion.zip",
+        "sha256": "9c31e8ad42cd5a2f9ae0badc7959141a1cc4a9bbb6c11b3f95d716a6999e24af"
+      },
+      "Legend": {
+        "best_lap": 41.00155139852526,
+        "mean_lap": 41.25390958791698,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\atlas\\checkpoints\\step_000000750000_2a2e2693",
+        "car_id": 0,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            41.26046684120824,
+            37.035279294164305,
+            37.24625975373852,
+            36.97531480978778,
+            37.46618251411897
+          ],
+          "finish_time": 189.98350321306555,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000000750000_2a2e2693",
+        "steps": 750000,
+        "bundle": "hairpin_valley/atlas/legend.zip",
+        "sha256": "a9c3fbaddf396ddc3167f0e9fd44e3177f10fb25fbc2fdbf8fa841383a6efdd4"
+      }
+    },
+    "1:1": {
+      "Rookie": {
+        "best_lap": 46.60314715650873,
+        "mean_lap": 46.619012763715865,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\bolt\\checkpoints\\step_000000250000_d8564420",
+        "car_id": 1,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            46.60314715650873,
+            44.49200281094051,
+            44.43435913519154,
+            44.26491657502954,
+            44.33816375804732
+          ],
+          "finish_time": 224.13258943579447,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000250000_d8564420",
+        "steps": 250000,
+        "bundle": "hairpin_valley/bolt/rookie.zip",
+        "sha256": "c8c93413ae8aea568a57c06464eea5874d531c4bea3d6d98972289e01d9b0613"
+      },
+      "Pro": {
+        "best_lap": 44.042809109409106,
+        "mean_lap": 44.39138853351784,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 18000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\bolt\\checkpoints\\step_000018000000_e16cfedb",
+        "car_id": 1,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            45.056580950815444,
+            39.356286692392885,
+            39.46611748781777,
+            38.756426403001974,
+            42.34696500327848
+          ],
+          "finish_time": 244.51209665880077,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000018000000_e16cfedb",
+        "bundle": "hairpin_valley/bolt/pro.zip",
+        "sha256": "e86014b795871157910a3e1dfa53e36f8f0db2a1b937b304bb549ca8de389b13"
+      },
+      "Champion": {
+        "best_lap": 40.253970577193265,
+        "mean_lap": 40.63029859978034,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\bolt\\checkpoints\\step_000029750000_b887860f",
+        "car_id": 1,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            40.787682101092265,
+            37.41404574793963,
+            36.81152065644833,
+            40.64093736703715,
+            38.28872243391714
+          ],
+          "finish_time": 193.9429083064856,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000029750000_b887860f",
+        "steps": 29750000,
+        "bundle": "hairpin_valley/bolt/champion.zip",
+        "sha256": "0c50b68e28d80c4ed9857380051af1ae7b1eee588ec0c95386c81e92012c52f3"
+      },
+      "Legend": {
+        "best_lap": 38.63842782643509,
+        "mean_lap": 39.496845704924716,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\bolt\\checkpoints\\step_000032500000_27eafdf6",
+        "car_id": 1,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            39.992609633717684,
+            38.13943724755693,
+            37.351286452056016,
+            38.04647106974274,
+            37.860219753126394
+          ],
+          "finish_time": 191.39002415624867,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000032500000_27eafdf6",
+        "steps": 32500000,
+        "bundle": "hairpin_valley/bolt/legend.zip",
+        "sha256": "24830a568e1afb2e467940525200d387ba265d24b198c6aed48ecccd14e4b305"
+      }
+    },
+    "1:2": {
+      "Rookie": {
+        "best_lap": 48.426082009804595,
+        "mean_lap": 48.43959592384922,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\vector\\checkpoints\\step_000000250000_8b9c89ed",
+        "car_id": 2,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            48.426082009804595,
+            45.87809530107095,
+            45.88269066771908,
+            45.89733215722275,
+            45.913015581187466
+          ],
+          "finish_time": 231.99721571708838,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000250000_8b9c89ed",
+        "steps": 250000,
+        "bundle": "hairpin_valley/vector/rookie.zip",
+        "sha256": "aa63b35c4bb9061d1fae60fa3a58e395db9a0a9d1bcd3e1f2ed765aab03be6c5"
+      },
+      "Pro": {
+        "best_lap": 43.65798774413841,
+        "mean_lap": 43.88923633941911,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\vector\\checkpoints\\step_000003750000_3bb1fdcf",
+        "car_id": 2,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.9028699760991,
+            38.65336605897462,
+            38.93951794128189,
+            39.36343559078912,
+            39.127512112002655
+          ],
+          "finish_time": 240.6032854221766,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000003750000_3bb1fdcf",
+        "steps": 3750000,
+        "bundle": "hairpin_valley/vector/pro.zip",
+        "sha256": "31577af118787c2217af4536e50dcfe5cc727621f6a40598e5609e24d3061cdb"
+      },
+      "Champion": {
+        "best_lap": 40.3188781192824,
+        "mean_lap": 40.57641494090844,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\vector\\checkpoints\\step_000000750000_b59794b5",
+        "car_id": 2,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            40.3188781192824,
+            36.36278350394792,
+            36.42612636440269,
+            36.355738918057604,
+            36.3745588870821
+          ],
+          "finish_time": 185.83808579281688,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000000750000_b59794b5",
+        "steps": 750000,
+        "bundle": "hairpin_valley/vector/champion.zip",
+        "sha256": "fe971a8ee8f3841aa8d32b101a63d4fd4360d75ef44c4e241fcae32f3c7bebc6"
+      },
+      "Legend": {
+        "best_lap": 37.38787626261932,
+        "mean_lap": 39.32840742689672,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 8000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\vector\\checkpoints\\step_000008000000_a28c9da8",
+        "car_id": 2,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            41.74485629083489,
+            38.240675907799485,
+            37.804528085698145,
+            38.13594972840858,
+            38.83759239070368
+          ],
+          "finish_time": 233.15944631998238,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000008000000_a28c9da8",
+        "bundle": "hairpin_valley/vector/legend.zip",
+        "sha256": "d224ebe365ae6d6916f2bbc449e107241a20046863709baded70a65dabcdef94"
+      }
+    },
+    "1:3": {
+      "Rookie": {
+        "best_lap": 53.929982639136796,
+        "mean_lap": 53.93143293872075,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\comet\\checkpoints\\step_000000250000_07d75651",
+        "car_id": 3,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            53.93229335654772,
+            51.92297810125053,
+            51.95643513988179,
+            51.97580452507596,
+            51.967860510246204
+          ],
+          "finish_time": 261.7553716331012,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000250000_07d75651",
+        "steps": 250000,
+        "bundle": "hairpin_valley/comet/rookie.zip",
+        "sha256": "dd4ff50f34c676ac32a46cb848ce4beaedecbdd1e427786fb4a8e6eaf2d9742f"
+      },
+      "Pro": {
+        "best_lap": 42.44427888657729,
+        "mean_lap": 42.9327101639981,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\comet\\checkpoints\\step_000009500000_3901d454",
+        "car_id": 3,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.68405105033092,
+            40.26235472653213,
+            39.72918337406393,
+            39.792956206240895,
+            39.58053227974715
+          ],
+          "finish_time": 203.0490776369739,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000009500000_3901d454",
+        "steps": 9500000,
+        "bundle": "hairpin_valley/comet/pro.zip",
+        "sha256": "612a7aa2a7b5a9d918d56608c76ae0b14f209e4fd0335f535c482042e47fd69c"
+      },
+      "Champion": {
+        "best_lap": 40.16548380535556,
+        "mean_lap": 40.384407394055096,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\comet\\checkpoints\\step_000004750000_578fd293",
+        "car_id": 3,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            40.16548380535556,
+            37.647897955741875,
+            36.708257216178325,
+            36.38339478449436,
+            36.47413157915393
+          ],
+          "finish_time": 187.37916534096954,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000004750000_578fd293",
+        "steps": 4750000,
+        "bundle": "hairpin_valley/comet/champion.zip",
+        "sha256": "f2339b402e6a3fd37547a78fde5beaffc0025bd79450da9fe4fba7ec503ed7a6"
+      },
+      "Legend": {
+        "best_lap": 38.76039968003532,
+        "mean_lap": 39.21641614949079,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\comet\\checkpoints\\step_000001250000_d319861a",
+        "car_id": 3,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            39.264473543072185,
+            36.08905745619726,
+            35.956881254309984,
+            36.30170621926647,
+            35.98756706941763
+          ],
+          "finish_time": 183.5996855423058,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000001250000_d319861a",
+        "steps": 1250000,
+        "bundle": "hairpin_valley/comet/legend.zip",
+        "sha256": "aed2525517e54069fa05f8dbffee0f61fab39ba6bc7caefcbcf4b59f21656540"
+      }
+    },
+    "1:4": {
+      "Rookie": {
+        "best_lap": 48.76283025795037,
+        "mean_lap": 49.066746652787096,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\rogue\\checkpoints\\step_000004750000_f6def80a",
+        "car_id": 4,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            48.76283025795037,
+            48.11370198518238,
+            47.428539618497304,
+            43.55634824268712,
+            48.05859644283122
+          ],
+          "finish_time": 235.92001654723526,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000004750000_f6def80a",
+        "steps": 4750000,
+        "bundle": "hairpin_valley/rogue/rookie.zip",
+        "sha256": "e61db071db36a822fba5db3e564fc195ec878cb81a329ade7b6637497daa727b"
+      },
+      "Pro": {
+        "best_lap": 43.103037768585494,
+        "mean_lap": 44.6821147117145,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\rogue\\checkpoints\\step_000001750000_22d93e6b",
+        "car_id": 4,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            44.02798410278379,
+            41.13432880698893,
+            41.111294712548116,
+            45.96015450029791,
+            41.71175877492612
+          ],
+          "finish_time": 213.945520897613,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000001750000_22d93e6b",
+        "steps": 1750000,
+        "bundle": "hairpin_valley/rogue/pro.zip",
+        "sha256": "e31f504eabb8c681b4779ea9116bb9fd59d8a89718971e10d8e132b0f0faaa6e"
+      },
+      "Champion": {
+        "best_lap": 40.88604663205661,
+        "mean_lap": 41.41777048468631,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\rogue\\checkpoints\\step_000013250000_f2fb7b3a",
+        "car_id": 4,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            41.48445352877837,
+            41.71754653021765,
+            40.767526356377424,
+            41.033742191406134,
+            40.21725979189986
+          ],
+          "finish_time": 205.22052839874016,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000013250000_f2fb7b3a",
+        "steps": 13250000,
+        "bundle": "hairpin_valley/rogue/champion.zip",
+        "sha256": "b2cd0ae34e6e5305de8f06466accaa9a339769e56dd0a8a98af3a64e602ab838"
+      },
+      "Legend": {
+        "best_lap": 39.39492868653908,
+        "mean_lap": 39.83413948039228,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\rogue\\checkpoints\\step_000000750000_5ac1090c",
+        "car_id": 4,
+        "track_id": 1,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            39.39492868653908,
+            36.391315665433595,
+            36.316576978762825,
+            36.77392240949229,
+            36.68590155467612
+          ],
+          "finish_time": 185.56264529494786,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000000750000_5ac1090c",
+        "steps": 750000,
+        "bundle": "hairpin_valley/rogue/legend.zip",
+        "sha256": "dc3d1393c945eb405b2c3245c238890c33e880827ab9fb28082fb36e5cf6bdc8"
+      }
+    },
+    "2:0": {
+      "Rookie": {
+        "best_lap": 44.70743906291699,
+        "mean_lap": 45.375023705624066,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\atlas\\checkpoints\\step_000001750000_14d6bf93",
+        "car_id": 0,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            45.615490102447055,
+            41.83301281542048,
+            41.57016705982401,
+            41.436117303732345,
+            41.99240425068568
+          ],
+          "finish_time": 212.44719153217642,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000001750000_14d6bf93",
+        "steps": 1750000,
+        "bundle": "esses_run/atlas/rookie.zip",
+        "sha256": "0a9a6db0eb9fdef57ad45464169cc70f8c7bf18a937f125e0c0a178fcb18d445"
+      },
+      "Pro": {
+        "best_lap": 44.70743906291699,
+        "mean_lap": 45.375023705624066,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\atlas\\checkpoints\\step_000001750000_14d6bf93",
+        "car_id": 0,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            45.615490102447055,
+            41.83301281542048,
+            41.57016705982401,
+            41.436117303732345,
+            41.99240425068568
+          ],
+          "finish_time": 212.44719153217642,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000001750000_14d6bf93",
+        "steps": 1750000,
+        "bundle": "esses_run/atlas/pro.zip",
+        "sha256": "02bea958c0f0132b49bc44a200f6c642ccec1c3e0a5a0fe9fef6d0e09f39b039"
+      },
+      "Champion": {
+        "best_lap": 41.631523865822786,
+        "mean_lap": 42.03019451894613,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\atlas\\checkpoints\\step_000000500000_75926c99",
+        "car_id": 0,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            42.25793389193447,
+            38.03938108353299,
+            38.12332696314997,
+            38.1827509103384,
+            38.09719644140076
+          ],
+          "finish_time": 194.70058929040832,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000000500000_75926c99",
+        "steps": 500000,
+        "bundle": "esses_run/atlas/champion.zip",
+        "sha256": "0b94aa707b27f97c8509e28b4f83add431273225b35cbb72aa7fe14a26d30645"
+      },
+      "Legend": {
+        "best_lap": 40.67276838193971,
+        "mean_lap": 40.760879809249936,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\atlas\\checkpoints\\step_000000250000_ffb26db4",
+        "car_id": 0,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            40.67276838193971,
+            37.026021112081395,
+            37.02547197751503,
+            37.0742151024291,
+            36.90446765407437
+          ],
+          "finish_time": 188.70294422808624,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000000250000_ffb26db4",
+        "steps": 250000,
+        "bundle": "esses_run/atlas/legend.zip",
+        "sha256": "8912576efd88fe839045db2a4c3ac79807845b58a961cf4590efa8d045b06c4b"
+      }
+    },
+    "2:1": {
+      "Rookie": {
+        "best_lap": 43.127751877842655,
+        "mean_lap": 43.74950193789966,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\bolt\\checkpoints\\step_000008750000_a5b50753",
+        "car_id": 1,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.127751877842655,
+            40.6587240004113,
+            40.568714921007455,
+            40.610871990907405,
+            40.061405656959224
+          ],
+          "finish_time": 205.02746844718857,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000008750000_a5b50753",
+        "steps": 8750000,
+        "bundle": "esses_run/bolt/rookie.zip",
+        "sha256": "35f0d1e021fe4ecf7c504a2001ae7b77cff0bbe91c6e84d9f1c5435002b95394"
+      },
+      "Pro": {
+        "best_lap": 43.127751877842655,
+        "mean_lap": 43.74950193789966,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\bolt\\checkpoints\\step_000008750000_a5b50753",
+        "car_id": 1,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.127751877842655,
+            40.6587240004113,
+            40.568714921007455,
+            40.610871990907405,
+            40.061405656959224
+          ],
+          "finish_time": 205.02746844718857,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000008750000_a5b50753",
+        "steps": 8750000,
+        "bundle": "esses_run/bolt/pro.zip",
+        "sha256": "2c5d86e66abb580fa1d61885f9425167bfa116c93d9316b55bb740b3402cb168"
+      },
+      "Champion": {
+        "best_lap": 40.68791451608902,
+        "mean_lap": 42.1980342049982,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\bolt\\checkpoints\\step_000014500000_b0939f22",
+        "car_id": 1,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            42.78400616727371,
+            40.67341582689703,
+            40.06128301936001,
+            40.59732100974631,
+            40.14572862321071
+          ],
+          "finish_time": 204.26175464654764,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000014500000_b0939f22",
+        "steps": 14500000,
+        "bundle": "esses_run/bolt/champion.zip",
+        "sha256": "b6bf01a5bac8268671cca5e144a50d633d0e597777c76f83b1c92528606a2ea1"
+      },
+      "Legend": {
+        "best_lap": 40.8757189723258,
+        "mean_lap": 41.03267187331911,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\bolt\\checkpoints\\step_000000500000_23b26797",
+        "car_id": 1,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            40.938712631279046,
+            38.488666697104414,
+            38.66473325978744,
+            38.66076559516729,
+            38.56012967459071
+          ],
+          "finish_time": 195.31300785798115,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000000500000_23b26797",
+        "steps": 500000,
+        "bundle": "esses_run/bolt/legend.zip",
+        "sha256": "a057e2a2e75d6f0376dfca55ae5f7a5f447589b539717aad0c6b84fbdd7b658c"
+      }
+    },
+    "2:2": {
+      "Rookie": {
+        "best_lap": 46.32571652935996,
+        "mean_lap": 46.371053060209356,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\vector\\checkpoints\\step_000002500000_8a60e8ed",
+        "car_id": 2,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            46.35271770906407,
+            43.10525834242379,
+            43.060744777156955,
+            43.77398318399396,
+            43.15313418147249
+          ],
+          "finish_time": 219.4458381941841,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000002500000_8a60e8ed",
+        "steps": 2500000,
+        "bundle": "esses_run/vector/rookie.zip",
+        "sha256": "887c947f9cad64a3551570df7405fa1df0bccfbbab4118bc32f7526878938d44"
+      },
+      "Pro": {
+        "best_lap": 44.29332442561542,
+        "mean_lap": 44.52617702737609,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\vector\\checkpoints\\step_000004750000_8bc2bc79",
+        "car_id": 2,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            44.29332442561542,
+            41.205472470185526,
+            41.788511258457035,
+            40.839505818295244,
+            41.104188312348384
+          ],
+          "finish_time": 209.2310022849657,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000004750000_8bc2bc79",
+        "steps": 4750000,
+        "bundle": "esses_run/vector/pro.zip",
+        "sha256": "f9ea8a05d97dc2960efb4f7df10762d96394b791e25dc88eb367b4b5dc07a819"
+      },
+      "Champion": {
+        "best_lap": 38.45360838951317,
+        "mean_lap": 41.119878470604675,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\vector\\checkpoints\\step_000008250000_ce2ac6b3",
+        "car_id": 2,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            38.45360838951317,
+            39.27200096943023,
+            38.41661565571812,
+            38.37309106678565,
+            38.30160428012007
+          ],
+          "finish_time": 236.57871967830215,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000008250000_ce2ac6b3",
+        "steps": 8250000,
+        "bundle": "esses_run/vector/champion.zip",
+        "sha256": "a3a66fc0ddba5ad58dd38eff8f24333d8b2ec2d0ee9b57b7ada8feaa10e3c3de"
+      },
+      "Legend": {
+        "best_lap": 36.810115526813114,
+        "mean_lap": 39.91235465654656,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\vector\\checkpoints\\step_000009750000_976bf9c6",
+        "car_id": 2,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            36.810115526813114,
+            37.00226926558225,
+            37.99711440804067,
+            40.16582504759198,
+            37.90725686044293
+          ],
+          "finish_time": 235.26227531512544,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000009750000_976bf9c6",
+        "steps": 9750000,
+        "bundle": "esses_run/vector/legend.zip",
+        "sha256": "78f434bc097380c376d23ed1f839ce4d901ee6af856d8e7bce06ddb141617af7"
+      }
+    },
+    "2:3": {
+      "Rookie": {
+        "best_lap": 45.08496412809823,
+        "mean_lap": 45.2664038190556,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\comet\\checkpoints\\step_000017500000_82b6e18d",
+        "car_id": 3,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            45.32184262299793,
+            42.63100980978181,
+            43.22858765305198,
+            43.02970184063799,
+            42.443328888022734
+          ],
+          "finish_time": 216.6544708145629,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000017500000_82b6e18d",
+        "steps": 17500000,
+        "bundle": "esses_run/comet/rookie.zip",
+        "sha256": "164bc9bfcce1869b2de619586fc15a776cfab12898adbd88f09135a910d420b2"
+      },
+      "Pro": {
+        "best_lap": 45.08496412809823,
+        "mean_lap": 45.2664038190556,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\comet\\checkpoints\\step_000017500000_82b6e18d",
+        "car_id": 3,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            45.32184262299793,
+            42.63100980978181,
+            43.22858765305198,
+            43.02970184063799,
+            42.443328888022734
+          ],
+          "finish_time": 216.6544708145629,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000017500000_82b6e18d",
+        "steps": 17500000,
+        "bundle": "esses_run/comet/pro.zip",
+        "sha256": "47d32314f940837c44e9e0b57ed3ce6604a758d36616df0405bc623db6c40d0e"
+      },
+      "Champion": {
+        "best_lap": 41.03705685874434,
+        "mean_lap": 42.51482691125773,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\comet\\checkpoints\\step_000013500000_cdd5fcbc",
+        "car_id": 3,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.50314034848769,
+            41.52828707651559,
+            42.18699893727523,
+            41.498510582644386,
+            41.74894760963024
+          ],
+          "finish_time": 210.4658845546183,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000013500000_cdd5fcbc",
+        "steps": 13500000,
+        "bundle": "esses_run/comet/champion.zip",
+        "sha256": "48363b41a2106999d63bb9c3cc4f98d976284e2c92875abee7209b46786cff9d"
+      },
+      "Legend": {
+        "best_lap": 41.04188740286627,
+        "mean_lap": 41.300063176743514,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\comet\\checkpoints\\step_000000750000_bfdebbd0",
+        "car_id": 3,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            41.41243951130283,
+            38.6978430737356,
+            38.55029308502913,
+            38.74849479988718,
+            38.65695971773068
+          ],
+          "finish_time": 196.0660301877383,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000000750000_bfdebbd0",
+        "steps": 750000,
+        "bundle": "esses_run/comet/legend.zip",
+        "sha256": "f729625af2359fd85e3a99e760a9768aa2b8a7f58e9b7d2336e38006b8b37793"
+      }
+    },
+    "2:4": {
+      "Rookie": {
+        "best_lap": 48.326414203116435,
+        "mean_lap": 49.43164445545792,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 17000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\rogue\\checkpoints\\step_000017000000_c191fe67",
+        "car_id": 4,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            48.326414203116435,
+            46.84850575655185,
+            46.87634457360493,
+            46.96374172177091,
+            46.50166041161558
+          ],
+          "finish_time": 235.51666666674623,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000017000000_c191fe67",
+        "bundle": "esses_run/rogue/rookie.zip",
+        "sha256": "5c7af5a128351d5a3339fc433c57223fc635502877bf790573ad5a7a2c92b7b6"
+      },
+      "Pro": {
+        "best_lap": 44.416907708888786,
+        "mean_lap": 44.63017294737458,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\rogue\\checkpoints\\step_000002250000_3101fb28",
+        "car_id": 4,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            44.416907708888786,
+            41.20915278394921,
+            41.67674743056448,
+            41.11171616061315,
+            41.7568931819575
+          ],
+          "finish_time": 210.17141726603805,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000002250000_3101fb28",
+        "steps": 2250000,
+        "bundle": "esses_run/rogue/pro.zip",
+        "sha256": "de4ef3ac8d38876f547a6d1b864ea796fe5f27ff0f36be28ffdc0cdbe410462a"
+      },
+      "Champion": {
+        "best_lap": 41.21630679935328,
+        "mean_lap": 41.34791050991233,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 1000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\rogue\\checkpoints\\step_000001000000_cb2179d1",
+        "car_id": 4,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            41.26271738758527,
+            38.63041165159529,
+            38.776676865260214,
+            37.39591241447494,
+            38.40727192945404
+          ],
+          "finish_time": 194.4729902484213,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000001000000_cb2179d1",
+        "bundle": "esses_run/rogue/champion.zip",
+        "sha256": "660f6239b4f12dee773aa296e3fba7fe16d8c8a33d14405932cc2abe2016f96d"
+      },
+      "Legend": {
+        "best_lap": 39.68547749529649,
+        "mean_lap": 39.89957305331217,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\rogue\\checkpoints\\step_000000750000_247b9454",
+        "car_id": 4,
+        "track_id": 2,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            40.220644704174454,
+            37.37518837696442,
+            37.32794748084296,
+            37.96116079027627,
+            37.13205485498209
+          ],
+          "finish_time": 190.01699620728795,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000000750000_247b9454",
+        "steps": 750000,
+        "bundle": "esses_run/rogue/legend.zip",
+        "sha256": "8290e99d7eac4758d9cbe5d2a234927f25cd9dae0b912f031792cef5068beffb"
+      }
+    },
+    "3:0": {
+      "Rookie": {
+        "best_lap": 49.501309569629285,
+        "mean_lap": 49.7631596972657,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\atlas\\checkpoints\\step_000000500000_773dc785",
+        "car_id": 0,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            49.97392134696099,
+            45.722286264383804,
+            45.86203541904798,
+            45.51136513421073,
+            45.52953840122563
+          ],
+          "finish_time": 232.59914656591317,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000500000_773dc785",
+        "steps": 500000,
+        "bundle": "longshot_speedway/atlas/rookie.zip",
+        "sha256": "83b35b429cb1c20630117b966f7dd48edc522ad1ecc0ecdf390459d8ac6fa837"
+      },
+      "Pro": {
+        "best_lap": 48.870808747867805,
+        "mean_lap": 49.30952885167556,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\atlas\\checkpoints\\step_000000750000_3c25644a",
+        "car_id": 0,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            48.870808747867805,
+            44.4989330919899,
+            44.71856242231959,
+            45.98141416146074,
+            44.7657960738504
+          ],
+          "finish_time": 228.83551449756928,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000000750000_3c25644a",
+        "steps": 750000,
+        "bundle": "longshot_speedway/atlas/pro.zip",
+        "sha256": "d77b6621c88a88b0c385d7eaf65caa447647ef12eb64ef4432ccf6a34644b7f4"
+      },
+      "Champion": {
+        "best_lap": 41.99108726230316,
+        "mean_lap": 44.76607192273887,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\atlas\\checkpoints\\step_000005500000_6eb1c201",
+        "car_id": 0,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            41.99108726230316,
+            40.56318247607739,
+            41.17417482089473,
+            41.86985311952082,
+            42.028396346446414
+          ],
+          "finish_time": 254.55913244169267,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000005500000_6eb1c201",
+        "steps": 5500000,
+        "bundle": "longshot_speedway/atlas/champion.zip",
+        "sha256": "de3e09220ac2cee2131b32fe42f031c382114eaa6173960f6ee6100583fa7c3d"
+      },
+      "Legend": {
+        "best_lap": 40.439954459302385,
+        "mean_lap": 43.63437790846555,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\atlas\\checkpoints\\step_000002250000_8fb45b4d",
+        "car_id": 0,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            45.547030716222274,
+            40.34942227504388,
+            38.840633932004614,
+            39.636793177107975,
+            39.80892483889029
+          ],
+          "finish_time": 204.18280493932883,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000002250000_8fb45b4d",
+        "steps": 2250000,
+        "bundle": "longshot_speedway/atlas/legend.zip",
+        "sha256": "6a3a9a4eced49d20cdc962bd47d908a24a7e172a9fe78fbccd2ed13157082a0d"
+      }
+    },
+    "3:1": {
+      "Rookie": {
+        "best_lap": 47.543603470767735,
+        "mean_lap": 47.632674930109886,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\bolt\\checkpoints\\step_000000250000_1e8a75b6",
+        "car_id": 1,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            47.57597793787686,
+            44.25011698854638,
+            44.256679658552756,
+            44.346614422078936,
+            44.1949749739116
+          ],
+          "finish_time": 224.62436398104376,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000000250000_1e8a75b6",
+        "steps": 250000,
+        "bundle": "longshot_speedway/bolt/rookie.zip",
+        "sha256": "0ad679c392c07938c46b6b2730ae1895256f2909fd6efd4f037bbd932d3ac851"
+      },
+      "Pro": {
+        "best_lap": 47.543603470767735,
+        "mean_lap": 47.632674930109886,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\bolt\\checkpoints\\step_000000250000_1e8a75b6",
+        "car_id": 1,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            47.57597793787686,
+            44.25011698854638,
+            44.256679658552756,
+            44.346614422078936,
+            44.1949749739116
+          ],
+          "finish_time": 224.62436398104376,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000000250000_1e8a75b6",
+        "steps": 250000,
+        "bundle": "longshot_speedway/bolt/pro.zip",
+        "sha256": "63e34a2a9d4f444bf2323485bb82c6f85f8386561045ee2c0a5de5be806f01b1"
+      },
+      "Champion": {
+        "best_lap": 43.53110504302628,
+        "mean_lap": 45.945394926405335,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 14000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\bolt\\checkpoints\\step_000014000000_77e44f9d",
+        "car_id": 1,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.53110504302628,
+            43.50724187909164,
+            43.402031311928724,
+            43.65740563790872,
+            43.34705739683709
+          ],
+          "finish_time": 398.1011795885746,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000014000000_77e44f9d",
+        "bundle": "longshot_speedway/bolt/champion.zip",
+        "sha256": "b5e6fb1c9eaa44e81626cd4164049e18d267cd05e9da223cbbed74f3bde527dc"
+      },
+      "Legend": {
+        "best_lap": 43.473006770891445,
+        "mean_lap": 44.751277886550106,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 10000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\bolt\\checkpoints\\step_000010000000_47014e3e",
+        "car_id": 1,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.473006770891445,
+            42.86798464615943,
+            43.72499072846687,
+            43.38466432548752,
+            43.58365366591288
+          ],
+          "finish_time": 311.2725376988553,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000010000000_47014e3e",
+        "bundle": "longshot_speedway/bolt/legend.zip",
+        "sha256": "96dcd45b3b9999c863c08749e97572a2cd50edf38d796f5a7046b2635f352299"
+      }
+    },
+    "3:2": {
+      "Rookie": {
+        "best_lap": 49.86792891574551,
+        "mean_lap": 50.19240620930617,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\vector\\checkpoints\\step_000006750000_c8db922e",
+        "car_id": 2,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            50.72955115620096,
+            46.57628695207004,
+            45.56554726616113,
+            45.79869983724539,
+            48.25064905304875
+          ],
+          "finish_time": 236.920734264814,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000006750000_c8db922e",
+        "steps": 6750000,
+        "bundle": "longshot_speedway/vector/rookie.zip",
+        "sha256": "f0e45149a236770bf10030e0b040dc41ab788a20d095eb9c34bf210cd6381858"
+      },
+      "Pro": {
+        "best_lap": 49.86792891574551,
+        "mean_lap": 50.19240620930617,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\vector\\checkpoints\\step_000006750000_c8db922e",
+        "car_id": 2,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            50.72955115620096,
+            46.57628695207004,
+            45.56554726616113,
+            45.79869983724539,
+            48.25064905304875
+          ],
+          "finish_time": 236.920734264814,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000006750000_c8db922e",
+        "steps": 6750000,
+        "bundle": "longshot_speedway/vector/pro.zip",
+        "sha256": "fd60e2f24c70c69c729dce5cb52a731592bbd1ebbbc9ee4edea2ace7a17f74f9"
+      },
+      "Champion": {
+        "best_lap": 47.039512850729864,
+        "mean_lap": 47.523761718587195,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\vector\\checkpoints\\step_000008500000_077a78a2",
+        "car_id": 2,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            48.095665686423494,
+            42.81336559467362,
+            44.14313713968694,
+            46.79385188388873,
+            42.74591162426373
+          ],
+          "finish_time": 224.59193192901373,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000008500000_077a78a2",
+        "steps": 8500000,
+        "bundle": "longshot_speedway/vector/champion.zip",
+        "sha256": "fb4870a0d561ff90a42121a66f4b52068f5230eec0f7616a54d10e21da7abbdf"
+      },
+      "Legend": {
+        "best_lap": 45.85154785229698,
+        "mean_lap": 46.11139954170332,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\vector\\checkpoints\\step_000018500000_2fbc0ee4",
+        "car_id": 2,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            45.85154785229698,
+            44.8333511243912,
+            45.95601361936041,
+            45.33670840161875,
+            40.67042956934495
+          ],
+          "finish_time": 222.64805056708784,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000018500000_2fbc0ee4",
+        "steps": 18500000,
+        "bundle": "longshot_speedway/vector/legend.zip",
+        "sha256": "c05e392cb0d2a4b7c820b3cf12870ae2d2b8afa6cb9aa34f468f86a003bf5146"
+      }
+    },
+    "3:3": {
+      "Rookie": {
+        "best_lap": 52.015099426117516,
+        "mean_lap": 53.9024718427525,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\comet\\checkpoints\\step_000018250000_8af47ce5",
+        "car_id": 3,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            52.015099426117516,
+            53.8980988308339,
+            47.72537291716971,
+            48.229392712688444,
+            47.92645782018314
+          ],
+          "finish_time": 249.7944217070914,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000018250000_8af47ce5",
+        "steps": 18250000,
+        "bundle": "longshot_speedway/comet/rookie.zip",
+        "sha256": "150612d9622a80174272c0d3467d0b9b6c6dc6247b86607409983b9d3f08c5ad"
+      },
+      "Pro": {
+        "best_lap": 45.57857048394924,
+        "mean_lap": 46.81526526448328,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\comet\\checkpoints\\step_000036250000_9ef7f913",
+        "car_id": 3,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            47.17020037979191,
+            42.696782938291875,
+            44.16132392948197,
+            42.05356094152428,
+            41.2386389702178
+          ],
+          "finish_time": 217.32050715937885,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000036250000_9ef7f913",
+        "steps": 36250000,
+        "bundle": "longshot_speedway/comet/pro.zip",
+        "sha256": "4071030b6d16f52d62c5e56477e75516687ef83298aef46aec81f1dd6332922b"
+      },
+      "Champion": {
+        "best_lap": 42.69439606016849,
+        "mean_lap": 43.01881470123144,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\comet\\checkpoints\\step_000002250000_cf6ea131",
+        "car_id": 3,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            43.13020513358783,
+            38.96882696532899,
+            38.47164934634718,
+            38.94789929116335,
+            39.01832797115643
+          ],
+          "finish_time": 281.60884717969253,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000002250000_cf6ea131",
+        "steps": 2250000,
+        "bundle": "longshot_speedway/comet/champion.zip",
+        "sha256": "759639caa7f0e3cab6eadbcee99e96b2ce4462cdeffd5d3875b770f5af466b81"
+      },
+      "Legend": {
+        "best_lap": 39.98214627957143,
+        "mean_lap": 41.838618345288204,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 6000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\comet\\checkpoints\\step_000006000000_0af0595b",
+        "car_id": 3,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            39.98214627957143,
+            39.81069625668852,
+            40.008965288796716,
+            40.32031228298854,
+            40.209995398537124
+          ],
+          "finish_time": 286.7258888524787,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000006000000_0af0595b",
+        "bundle": "longshot_speedway/comet/legend.zip",
+        "sha256": "f6ed613f825d686ab1b39b3230247eb9883363b3462aaf7f81e0b80e3cf309f2"
+      }
+    },
+    "3:4": {
+      "Rookie": {
+        "best_lap": 49.08959313271807,
+        "mean_lap": 49.648269579542664,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 1000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\rogue\\checkpoints\\step_000001000000_85dd1e8a",
+        "car_id": 4,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            49.62688910346183,
+            48.04119758585046,
+            48.924524543992156,
+            47.46504361019003,
+            48.38138445350857
+          ],
+          "finish_time": 242.4390392970955,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000001000000_85dd1e8a",
+        "bundle": "longshot_speedway/rogue/rookie.zip",
+        "sha256": "dfa723092cbf899dc88c4d73f48a25a568c88ec705ec34f60317c304e715f07d"
+      },
+      "Pro": {
+        "best_lap": 46.686160086259854,
+        "mean_lap": 47.77903173437668,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\rogue\\checkpoints\\step_000001250000_c3aef368",
+        "car_id": 4,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            46.686160086259854,
+            43.828784335397124,
+            44.9747682032042,
+            45.470468071057915,
+            46.26477528945337
+          ],
+          "finish_time": 227.2249559854519,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000001250000_c3aef368",
+        "steps": 1250000,
+        "bundle": "longshot_speedway/rogue/pro.zip",
+        "sha256": "3b6c7c307401b1fb2fb56e2a8b63db08a57a9d26605eb665f35d9c419e273c19"
+      },
+      "Champion": {
+        "best_lap": 42.10579401540571,
+        "mean_lap": 43.84447718722965,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 12000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\rogue\\checkpoints\\step_000012000000_c6ec347e",
+        "car_id": 4,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            44.746333579546736,
+            39.927406671076184,
+            40.13420663486015,
+            40.71798560417395,
+            40.65351139888031
+          ],
+          "finish_time": 289.77206288895457,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000012000000_c6ec347e",
+        "bundle": "longshot_speedway/rogue/champion.zip",
+        "sha256": "c4806a78ce97a481180e7937694a38a251e521891a4e98a81b982de8215fa7e8"
+      },
+      "Legend": {
+        "best_lap": 40.91051206953798,
+        "mean_lap": 42.617377761405464,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\rogue\\checkpoints\\step_000014750000_e6c517a4",
+        "car_id": 4,
+        "track_id": 3,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            44.93506838036502,
+            40.72233024296772,
+            40.25360810310881,
+            40.331615990370544,
+            40.78467076451532
+          ],
+          "finish_time": 207.02729348138965,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000014750000_e6c517a4",
+        "steps": 14750000,
+        "bundle": "longshot_speedway/rogue/legend.zip",
+        "sha256": "834823e6839450cf061523c30aa454bbb1cca2900e01e864e02a4b03734b4c31"
+      }
+    },
+    "4:0": {
+      "Rookie": {
+        "best_lap": 66.13791647943661,
+        "mean_lap": 66.37003538977537,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\atlas\\checkpoints\\step_000025500000_7e1e4f90",
+        "car_id": 0,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            66.80817702222737,
+            62.04596543213338,
+            61.574546493488484,
+            61.8714311452302,
+            61.496320972158465
+          ],
+          "finish_time": 313.7964410652925,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000025500000_7e1e4f90",
+        "steps": 25500000,
+        "bundle": "grand_circuit/atlas/rookie.zip",
+        "sha256": "2bf87bfcc44d3679e6543d1fc6fcf97cc3e34b431b30587aa87e711328cffa5c"
+      },
+      "Pro": {
+        "best_lap": 66.13791647943661,
+        "mean_lap": 66.37003538977537,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\atlas\\checkpoints\\step_000025500000_7e1e4f90",
+        "car_id": 0,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            66.80817702222737,
+            62.04596543213338,
+            61.574546493488484,
+            61.8714311452302,
+            61.496320972158465
+          ],
+          "finish_time": 313.7964410652925,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000025500000_7e1e4f90",
+        "steps": 25500000,
+        "bundle": "grand_circuit/atlas/pro.zip",
+        "sha256": "863f63253cc5368fb1806bce46dffbdbe4d1237ecef96982921871fc9be7cba4"
+      },
+      "Champion": {
+        "best_lap": 63.14441410887209,
+        "mean_lap": 63.488024905826144,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 2000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\atlas\\checkpoints\\step_000002000000_918014a9",
+        "car_id": 0,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            63.14441410887209,
+            58.5181696985755,
+            58.567461685531214,
+            58.60747368598953,
+            59.01430535280022
+          ],
+          "finish_time": 297.8518245318368,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000002000000_918014a9",
+        "bundle": "grand_circuit/atlas/champion.zip",
+        "sha256": "7d3b315a15c3244448f926ac4b78a4f688238efa96d93e4b906b49f3f3249293"
+      },
+      "Legend": {
+        "best_lap": 61.263230659043,
+        "mean_lap": 61.67535726610953,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\atlas\\checkpoints\\step_000001250000_b2d387f7",
+        "car_id": 0,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            61.54055288655734,
+            56.92682055633698,
+            57.185219433371856,
+            56.90956250812524,
+            57.32552536211386
+          ],
+          "finish_time": 289.8876807465803,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000001250000_b2d387f7",
+        "steps": 1250000,
+        "bundle": "grand_circuit/atlas/legend.zip",
+        "sha256": "215d70487cefc1570b941b86ac3191c01ccbfbdbd6756d650573f0569a9b9fa8"
+      }
+    },
+    "4:1": {
+      "Rookie": {
+        "best_lap": 71.47143690703378,
+        "mean_lap": 75.77046188015608,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\bolt\\checkpoints\\step_000025500000_88d74843",
+        "car_id": 1,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            75.73944377437294,
+            72.36055622562121,
+            71.24637781246034,
+            76.9437302556575,
+            74.3958322053452
+          ],
+          "finish_time": 370.68594027346336,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000025500000_88d74843",
+        "steps": 25500000,
+        "bundle": "grand_circuit/bolt/rookie.zip",
+        "sha256": "0186ac80d7f6db9832b9b4dbb991a3167ca503f4e8b13a16464ed822db043598"
+      },
+      "Pro": {
+        "best_lap": 70.47598608190904,
+        "mean_lap": 71.47507508643855,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 31000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\bolt\\checkpoints\\step_000031000000_56052d14",
+        "car_id": 1,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            71.05690456384174,
+            66.98092386933075,
+            68.04062917956979,
+            67.55588784843039,
+            69.24716443696794
+          ],
+          "finish_time": 342.88150989817046,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000031000000_56052d14",
+        "bundle": "grand_circuit/bolt/pro.zip",
+        "sha256": "cb74c5e5b5e41c195519e9bbf47a75363464bff3b2e9cbdf22c58d484bcd03bf"
+      },
+      "Champion": {
+        "best_lap": 65.71491136622056,
+        "mean_lap": 65.7965047563483,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\bolt\\checkpoints\\step_000006250000_cc8cf528",
+        "car_id": 1,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            65.71491136622056,
+            62.69487387455628,
+            62.459449695210395,
+            62.397322816941156,
+            62.285026063250854
+          ],
+          "finish_time": 315.5515838162324,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000006250000_cc8cf528",
+        "steps": 6250000,
+        "bundle": "grand_circuit/bolt/champion.zip",
+        "sha256": "8cb29b27b693372c708e62d60227f8334511a2480b794e61fc434c49829b107a"
+      },
+      "Legend": {
+        "best_lap": 63.792626698595384,
+        "mean_lap": 63.94208382993542,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\bolt\\checkpoints\\step_000000500000_e482f01d",
+        "car_id": 1,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            63.792626698595384,
+            60.548987803110954,
+            60.758832244730826,
+            60.83776970527096,
+            60.91584205380621
+          ],
+          "finish_time": 489.62138178181215,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000000500000_e482f01d",
+        "steps": 500000,
+        "bundle": "grand_circuit/bolt/legend.zip",
+        "sha256": "da0f5ee97975bf4f5a08ced706009baf89df61c3d18a33c4a32c5f38007eb27f"
+      }
+    },
+    "4:2": {
+      "Rookie": {
+        "best_lap": 64.26839553403784,
+        "mean_lap": 65.3864390035654,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\vector\\checkpoints\\step_000012250000_4b9935b7",
+        "car_id": 2,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            64.26839553403784,
+            58.621734709899684,
+            60.08065119038752,
+            60.77739508808105,
+            61.83773251803611
+          ],
+          "finish_time": 305.58590904050385,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000012250000_4b9935b7",
+        "steps": 12250000,
+        "bundle": "grand_circuit/vector/rookie.zip",
+        "sha256": "cff85c0d0fa1ff34a013eb6a124bae5d5ea761599805382b652fa2aca5d4f240"
+      },
+      "Pro": {
+        "best_lap": 64.26839553403784,
+        "mean_lap": 65.3864390035654,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\vector\\checkpoints\\step_000012250000_4b9935b7",
+        "car_id": 2,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            64.26839553403784,
+            58.621734709899684,
+            60.08065119038752,
+            60.77739508808105,
+            61.83773251803611
+          ],
+          "finish_time": 305.58590904050385,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000012250000_4b9935b7",
+        "steps": 12250000,
+        "bundle": "grand_circuit/vector/pro.zip",
+        "sha256": "e55b8b431c03441ab0325402baddabe04a582e18e857866a1640631a5e29cad9"
+      },
+      "Champion": {
+        "best_lap": 62.750887864010636,
+        "mean_lap": 63.16383825891237,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\vector\\checkpoints\\step_000006500000_f88fb4e1",
+        "car_id": 2,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            63.45820649766956,
+            59.79814596736877,
+            58.86962936893679,
+            57.79639750603635,
+            57.78931402548504
+          ],
+          "finish_time": 297.7116933655649,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000006500000_f88fb4e1",
+        "steps": 6500000,
+        "bundle": "grand_circuit/vector/champion.zip",
+        "sha256": "4cd8dc2f8a0e08b5d0cb1962235ec07f9e269e89ce1aedafd586313ac773d2aa"
+      },
+      "Legend": {
+        "best_lap": 61.26628102674234,
+        "mean_lap": 61.327353202354004,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\vector\\checkpoints\\step_000001250000_16965289",
+        "car_id": 2,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            61.26628102674234,
+            56.03312248111559,
+            56.20620199349272,
+            56.55054829856724,
+            56.556063738494124
+          ],
+          "finish_time": 286.61221753848986,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000001250000_16965289",
+        "steps": 1250000,
+        "bundle": "grand_circuit/vector/legend.zip",
+        "sha256": "3913e45895eef17a3d068b58fa4116585cd9de000690e6f171292ef1e1a2c2f4"
+      }
+    },
+    "4:3": {
+      "Rookie": {
+        "best_lap": 61.74220948811756,
+        "mean_lap": 62.65554831235002,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\comet\\checkpoints\\step_000036500000_6ff1f7fd",
+        "car_id": 3,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            63.33467363759425,
+            58.600038246087706,
+            57.68745715172112,
+            56.60034529902228,
+            56.706253361100416
+          ],
+          "finish_time": 292.92876769559825,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000036500000_6ff1f7fd",
+        "steps": 36500000,
+        "bundle": "grand_circuit/comet/rookie.zip",
+        "sha256": "ce03c029d9c034612b5bccd71fe051849f958191f15ac96a0d4af189395932a2"
+      },
+      "Pro": {
+        "best_lap": 61.74220948811756,
+        "mean_lap": 62.65554831235002,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\comet\\checkpoints\\step_000036500000_6ff1f7fd",
+        "car_id": 3,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            63.33467363759425,
+            58.600038246087706,
+            57.68745715172112,
+            56.60034529902228,
+            56.706253361100416
+          ],
+          "finish_time": 292.92876769559825,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000036500000_6ff1f7fd",
+        "steps": 36500000,
+        "bundle": "grand_circuit/comet/pro.zip",
+        "sha256": "4f868ccb9d302f2c0abc486a373a206db804979f52fbdfa30df7fc3be53f8f2b"
+      },
+      "Champion": {
+        "best_lap": 56.36922549490671,
+        "mean_lap": 59.20023489590384,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\comet\\checkpoints\\step_000003750000_787f0119",
+        "car_id": 3,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            60.70993663212668,
+            56.727585731094145,
+            57.413495892910795,
+            56.337405143433095,
+            56.01568169516978
+          ],
+          "finish_time": 343.8885489083672,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000003750000_787f0119",
+        "steps": 3750000,
+        "bundle": "grand_circuit/comet/champion.zip",
+        "sha256": "25c9839320d596ea049a9204f5f73e9d603ae191b3259b1babb89e98200df340"
+      },
+      "Legend": {
+        "best_lap": 56.8218353106936,
+        "mean_lap": 57.38927306553194,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\comet\\checkpoints\\step_000020750000_31ef92c9",
+        "car_id": 3,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            57.90371202973595,
+            57.451991566208676,
+            57.64638645175247,
+            57.64979134325006,
+            57.90371150081922
+          ],
+          "finish_time": 1164.152243728051,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000020750000_31ef92c9",
+        "steps": 20750000,
+        "bundle": "grand_circuit/comet/legend.zip",
+        "sha256": "e101ce6819db1d35f641cdb350605227210beebc6e86b7cd1f7e82deb9031421"
+      }
+    },
+    "4:4": {
+      "Rookie": {
+        "best_lap": 64.89601524215523,
+        "mean_lap": 65.84300643921883,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 11000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\rogue\\checkpoints\\step_000011000000_fb623f8f",
+        "car_id": 4,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            67.60846811807264,
+            61.820254251236605,
+            60.606249682371036,
+            61.96913547853934,
+            62.268760040766196
+          ],
+          "finish_time": 314.2728675710401,
+          "dnf": ""
+        },
+        "tier": "Rookie",
+        "source_checkpoint": "step_000011000000_fb623f8f",
+        "bundle": "grand_circuit/rogue/rookie.zip",
+        "sha256": "ed254da85d8f6dcd07e1a424b5af4bee574ead3171dbbe60ca788178d917c32e"
+      },
+      "Pro": {
+        "best_lap": 64.89601524215523,
+        "mean_lap": 65.84300643921883,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 11000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\rogue\\checkpoints\\step_000011000000_fb623f8f",
+        "car_id": 4,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            67.60846811807264,
+            61.820254251236605,
+            60.606249682371036,
+            61.96913547853934,
+            62.268760040766196
+          ],
+          "finish_time": 314.2728675710401,
+          "dnf": ""
+        },
+        "tier": "Pro",
+        "source_checkpoint": "step_000011000000_fb623f8f",
+        "bundle": "grand_circuit/rogue/pro.zip",
+        "sha256": "9f024ac9a1c64443b037d02fb8fab905a6cb95bb57fd99ecebd9f4943d4ae681"
+      },
+      "Champion": {
+        "best_lap": 61.981456792246234,
+        "mean_lap": 63.91882656035937,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "steps": 15000000,
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\rogue\\checkpoints\\step_000015000000_950e13c3",
+        "car_id": 4,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "training evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            64.61578111237803,
+            61.42720482766101,
+            61.25620725598902,
+            61.095545147567094,
+            61.22947480339559
+          ],
+          "finish_time": 309.624213147049,
+          "dnf": ""
+        },
+        "tier": "Champion",
+        "source_checkpoint": "step_000015000000_950e13c3",
+        "bundle": "grand_circuit/rogue/champion.zip",
+        "sha256": "7ff7ecbbce091a2b2ca6ae1ae7427e203e3998acea0da638077d363eeccfb9aa"
+      },
+      "Legend": {
+        "best_lap": 59.88563452067879,
+        "mean_lap": 62.15534471367891,
+        "completion_rate": 1.0,
+        "completed_laps": 3,
+        "episodes": 3,
+        "failures": {},
+        "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\rogue\\checkpoints\\step_000002500000_c39c7292",
+        "car_id": 4,
+        "track_id": 4,
+        "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+        "source": "phase4 evaluation",
+        "race_validation": {
+          "completed_laps": 5,
+          "requested_laps": 5,
+          "lap_times": [
+            63.69706628702687,
+            60.056838157816465,
+            59.475272678889716,
+            60.10419645256847,
+            59.5629687410433
+          ],
+          "finish_time": 483.7895193615233,
+          "dnf": ""
+        },
+        "tier": "Legend",
+        "source_checkpoint": "step_000002500000_c39c7292",
+        "steps": 2500000,
+        "bundle": "grand_circuit/rogue/legend.zip",
+        "sha256": "f41c0ca23994302229215f07960f93e5ba100bd2b9677266a585beb1bd217068"
+      }
+    }
+  },
+  "warnings": [
+    "Sunrise Oval/Atlas: Rookie: available pace 113.1%, target 137.5%",
+    "Sunrise Oval/Atlas: Pro: less than 1.5% faster than preceding tier",
+    "Sunrise Oval/Bolt: Rookie: available pace 121.9%, target 137.5%",
+    "Sunrise Oval/Vector: Rookie: available pace 131.3%, target 137.5%",
+    "Sunrise Oval/Comet: Rookie: available pace 125.8%, target 137.5%",
+    "Sunrise Oval/Rogue: Rookie: available pace 127.6%, target 137.5%",
+    "Hairpin Valley/Atlas: Rookie: available pace 117.0%, target 137.5%",
+    "Hairpin Valley/Bolt: Rookie: available pace 118.0%, target 137.5%",
+    "Hairpin Valley/Vector: Rookie: available pace 123.2%, target 137.5%",
+    "Hairpin Valley/Rogue: Rookie: available pace 123.2%, target 137.5%",
+    "Esses Run/Atlas: Rookie: available pace 111.3%, target 137.5%",
+    "Esses Run/Atlas: Pro: less than 1.5% faster than preceding tier",
+    "Esses Run/Bolt: Rookie: available pace 106.6%, target 137.5%",
+    "Esses Run/Bolt: Pro: less than 1.5% faster than preceding tier",
+    "Esses Run/Vector: Rookie: available pace 116.2%, target 137.5%",
+    "Esses Run/Comet: Rookie: available pace 109.6%, target 137.5%",
+    "Esses Run/Comet: Pro: less than 1.5% faster than preceding tier",
+    "Esses Run/Rogue: Rookie: available pace 123.9%, target 137.5%",
+    "Longshot Speedway/Atlas: Rookie: available pace 114.0%, target 137.5%",
+    "Longshot Speedway/Atlas: Pro: less than 1.5% faster than preceding tier",
+    "Longshot Speedway/Bolt: Rookie: available pace 106.4%, target 137.5%",
+    "Longshot Speedway/Bolt: Pro: less than 1.5% faster than preceding tier",
+    "Longshot Speedway/Vector: Rookie: available pace 108.9%, target 137.5%",
+    "Longshot Speedway/Vector: Pro: less than 1.5% faster than preceding tier",
+    "Longshot Speedway/Comet: Rookie: available pace 128.8%, target 137.5%",
+    "Longshot Speedway/Rogue: Rookie: available pace 116.5%, target 137.5%",
+    "Grand Circuit/Atlas: Rookie: available pace 107.6%, target 137.5%",
+    "Grand Circuit/Atlas: Pro: less than 1.5% faster than preceding tier",
+    "Grand Circuit/Bolt: Rookie: available pace 118.5%, target 137.5%",
+    "Grand Circuit/Vector: Rookie: available pace 106.6%, target 137.5%",
+    "Grand Circuit/Vector: Pro: less than 1.5% faster than preceding tier",
+    "Grand Circuit/Comet: Rookie: available pace 109.2%, target 137.5%",
+    "Grand Circuit/Comet: Pro: less than 1.5% faster than preceding tier",
+    "Grand Circuit/Rogue: Rookie: available pace 105.9%, target 137.5%",
+    "Grand Circuit/Rogue: Pro: available pace 105.9%, target 112.0%",
+    "Grand Circuit/Rogue: Pro: less than 1.5% faster than preceding tier"
+  ]
+}

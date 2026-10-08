@@ -1,0 +1,29 @@
+{
+  "best_lap": 44.416907708888786,
+  "mean_lap": 44.63017294737458,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\esses_run\\rogue\\checkpoints\\step_000002250000_3101fb28",
+  "car_id": 4,
+  "track_id": 2,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      44.416907708888786,
+      41.20915278394921,
+      41.67674743056448,
+      41.11171616061315,
+      41.7568931819575
+    ],
+    "finish_time": 210.17141726603805,
+    "dnf": ""
+  },
+  "tier": "Pro",
+  "source_checkpoint": "step_000002250000_3101fb28",
+  "steps": 2250000
+}

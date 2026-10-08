@@ -1,0 +1,29 @@
+{
+  "best_lap": 52.015099426117516,
+  "mean_lap": 53.9024718427525,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\comet\\checkpoints\\step_000018250000_8af47ce5",
+  "car_id": 3,
+  "track_id": 3,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      52.015099426117516,
+      53.8980988308339,
+      47.72537291716971,
+      48.229392712688444,
+      47.92645782018314
+    ],
+    "finish_time": 249.7944217070914,
+    "dnf": ""
+  },
+  "tier": "Rookie",
+  "source_checkpoint": "step_000018250000_8af47ce5",
+  "steps": 18250000
+}

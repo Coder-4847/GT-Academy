@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#e9e7df"><meta name="description" content="Five cars. Five circuits. Trained neural drivers. Find your line in GT Academy, a precision racing game in your browser."><title>GT Academy — Find your line</title><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css"></head>
+<body>
+<header><a class="brand" href="#" aria-label="GT Academy home"><span class="brand-mark">GT</span><span>ACADEMY<small>THE DRIVING CLUB</small></span></a><nav aria-label="Main navigation"><button data-page="drive" class="active">Drive</button><button data-page="garage">Garage</button><button data-page="circuits">Circuits</button><button data-page="settings">Settings</button></nav><span id="engine-status" role="status"><i></i> Preparing engine</span></header>
+<main id="menu" tabindex="-1"></main>
+<section id="race" hidden aria-label="Race"><canvas id="world" aria-label="Race track"></canvas><div id="hud"></div><button id="pause-button" aria-label="Pause race">Ⅱ</button><div id="countdown" aria-live="polite"></div><div id="touch-controls"><div><button data-key="ArrowLeft" aria-label="Steer left">←</button><button data-key="ArrowRight" aria-label="Steer right">→</button></div><div><button data-key="ArrowDown" aria-label="Brake">BRAKE</button><button data-key="ArrowUp" aria-label="Accelerate">GO</button></div></div></section>
+<dialog id="modal"><div id="modal-content"></div></dialog><div id="toast" role="status"></div>
+<footer><span>PRECISION IS A PRACTICE.</span><span>5 CARS <b>·</b> 5 CIRCUITS <b>·</b> YOUR NEXT PERSONAL BEST</span><a href="https://github.com/Coder-4847/GT-Academy" target="_blank" rel="noopener">Source ↗</a></footer>
+<script type="module" src="app.js"></script></body></html>

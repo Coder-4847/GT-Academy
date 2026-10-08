@@ -1,0 +1,29 @@
+{
+  "best_lap": 33.25194025155414,
+  "mean_lap": 33.34055687587524,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\comet\\checkpoints\\step_000002500000_25e5a209",
+  "car_id": 3,
+  "track_id": 0,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      33.39565873770854,
+      31.41327231986404,
+      31.275590505808538,
+      30.55194237397456,
+      30.96806641551147
+    ],
+    "finish_time": 157.60453035288725,
+    "dnf": ""
+  },
+  "tier": "Rookie",
+  "source_checkpoint": "step_000002500000_25e5a209",
+  "steps": 2500000
+}

@@ -1,0 +1,29 @@
+{
+  "best_lap": 53.929982639136796,
+  "mean_lap": 53.93143293872075,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\comet\\checkpoints\\step_000000250000_07d75651",
+  "car_id": 3,
+  "track_id": 1,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      53.93229335654772,
+      51.92297810125053,
+      51.95643513988179,
+      51.97580452507596,
+      51.967860510246204
+    ],
+    "finish_time": 261.7553716331012,
+    "dnf": ""
+  },
+  "tier": "Rookie",
+  "source_checkpoint": "step_000000250000_07d75651",
+  "steps": 250000
+}

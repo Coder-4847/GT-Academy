@@ -1,0 +1,29 @@
+{
+  "best_lap": 37.38787626261932,
+  "mean_lap": 39.32840742689672,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "steps": 8000000,
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\vector\\checkpoints\\step_000008000000_a28c9da8",
+  "car_id": 2,
+  "track_id": 1,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "training evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      41.74485629083489,
+      38.240675907799485,
+      37.804528085698145,
+      38.13594972840858,
+      38.83759239070368
+    ],
+    "finish_time": 233.15944631998238,
+    "dnf": ""
+  },
+  "tier": "Legend",
+  "source_checkpoint": "step_000008000000_a28c9da8"
+}

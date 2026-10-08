@@ -1,0 +1,29 @@
+{
+  "best_lap": 26.497565754541696,
+  "mean_lap": 27.123896485012256,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "steps": 3000000,
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\vector\\checkpoints\\step_000003000000_880f7f91",
+  "car_id": 2,
+  "track_id": 0,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "training evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      26.80654524305394,
+      23.516411982991567,
+      22.998301383812457,
+      23.73685535742649,
+      22.829145923192872
+    ],
+    "finish_time": 119.8872598904722,
+    "dnf": ""
+  },
+  "tier": "Champion",
+  "source_checkpoint": "step_000003000000_880f7f91"
+}

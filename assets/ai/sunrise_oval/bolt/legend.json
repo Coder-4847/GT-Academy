@@ -1,0 +1,29 @@
+{
+  "best_lap": 26.649999999999768,
+  "mean_lap": 26.839394025377214,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\bolt\\checkpoints\\step_000001750000_8eac22f6",
+  "car_id": 1,
+  "track_id": 0,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      26.666274273551213,
+      24.483725726448444,
+      23.79999999999993,
+      23.674004332662754,
+      23.822120193295774
+    ],
+    "finish_time": 122.446124525953,
+    "dnf": ""
+  },
+  "tier": "Legend",
+  "source_checkpoint": "step_000001750000_8eac22f6",
+  "steps": 1750000
+}

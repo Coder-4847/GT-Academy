@@ -1,0 +1,29 @@
+{
+  "best_lap": 49.86792891574551,
+  "mean_lap": 50.19240620930617,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\longshot_speedway\\vector\\checkpoints\\step_000006750000_c8db922e",
+  "car_id": 2,
+  "track_id": 3,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      50.72955115620096,
+      46.57628695207004,
+      45.56554726616113,
+      45.79869983724539,
+      48.25064905304875
+    ],
+    "finish_time": 236.920734264814,
+    "dnf": ""
+  },
+  "tier": "Pro",
+  "source_checkpoint": "step_000006750000_c8db922e",
+  "steps": 6750000
+}

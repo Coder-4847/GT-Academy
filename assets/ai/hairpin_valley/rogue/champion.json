@@ -1,0 +1,29 @@
+{
+  "best_lap": 40.88604663205661,
+  "mean_lap": 41.41777048468631,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\hairpin_valley\\rogue\\checkpoints\\step_000013250000_f2fb7b3a",
+  "car_id": 4,
+  "track_id": 1,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      41.48445352877837,
+      41.71754653021765,
+      40.767526356377424,
+      41.033742191406134,
+      40.21725979189986
+    ],
+    "finish_time": 205.22052839874016,
+    "dnf": ""
+  },
+  "tier": "Champion",
+  "source_checkpoint": "step_000013250000_f2fb7b3a",
+  "steps": 13250000
+}

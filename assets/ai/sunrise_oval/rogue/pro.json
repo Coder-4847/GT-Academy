@@ -1,0 +1,29 @@
+{
+  "best_lap": 29.408825377698218,
+  "mean_lap": 29.8103438817803,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "steps": 20000000,
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\sunrise_oval\\rogue\\checkpoints\\step_000020000000_8e59014b",
+  "car_id": 4,
+  "track_id": 0,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "training evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      30.239359625340054,
+      27.437676091048967,
+      29.331021853591263,
+      28.63576463452344,
+      31.30438196502592
+    ],
+    "finish_time": 146.94820416954065,
+    "dnf": ""
+  },
+  "tier": "Pro",
+  "source_checkpoint": "step_000020000000_8e59014b"
+}

@@ -1,0 +1,29 @@
+{
+  "best_lap": 61.26628102674234,
+  "mean_lap": 61.327353202354004,
+  "completion_rate": 1.0,
+  "completed_laps": 3,
+  "episodes": 3,
+  "failures": {},
+  "checkpoint": "C:\\Programming\\Visual Studio Code\\GT Academy\\runs\\grand_circuit\\vector\\checkpoints\\step_000001250000_16965289",
+  "car_id": 2,
+  "track_id": 4,
+  "sim_version": "f9dee10155f30db652ce63fd8e3e6cca5f233fc6e199a13f8bb2037eda30b824",
+  "source": "phase4 evaluation",
+  "race_validation": {
+    "completed_laps": 5,
+    "requested_laps": 5,
+    "lap_times": [
+      61.26628102674234,
+      56.03312248111559,
+      56.20620199349272,
+      56.55054829856724,
+      56.556063738494124
+    ],
+    "finish_time": 286.61221753848986,
+    "dnf": ""
+  },
+  "tier": "Legend",
+  "source_checkpoint": "step_000001250000_16965289",
+  "steps": 1250000
+}
